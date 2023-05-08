@@ -90,7 +90,7 @@
 * 손실함수로는 CrossEntropyLoss에 Weight를 부여하여 사용하였다.
 * 최적화를 위한 옵티마이저는 이미지 분류 문제에 흔히 쓰이는 Adam을 이용하였다.
 * 모델 학습 속도 증가를 위해 AMP와 GradScaler를 사용하였다.
-* 손실함수로 FocalLoss를 적용하였더니, 약
+* 손실함수로 FocalLoss를 적용하였더니, 약간의 성능 향상이 있었다.
 
 <br />
 
