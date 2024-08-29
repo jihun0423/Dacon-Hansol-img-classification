@@ -81,6 +81,7 @@
 
 </details>
 
+추후 CLIP 모델로 변경  
 
 <br />
 
